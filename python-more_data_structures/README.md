@@ -37,4 +37,3 @@ Guidelines on how to contribute to the project, including any code of conduct.
 
 ## License
 
-Information about the project's license.
