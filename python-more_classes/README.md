@@ -1,42 +1,27 @@
-# Python - More Classes and Objects
-## Learning Objectives
-### General
+# Python: Deep Dive into Classes and Objects
 
-* Why Python programming is awesome
-* What is OOP
-* “first-class everything”
-* What is a class
-* What is an object and an instance
-* What is the difference between a class and an object or instance
-* What is an attribute
-* What are and how to use public, protected and private attributes
-* What is self
-* What is a method
-* What is the special __init__ method and how to use it
-* What is Data Abstraction, Data Encapsulation, and Information Hiding
-* What is a property
-* What is the difference between an attribute and a property in Python
-* What is the Pythonic way to write getters and setters in Python
-* What are the special __str__ and __repr__ methods and how to use them
-* What is the difference between __str__ and __repr__
-* What is a class attribute
-* What is the difference between a object attribute and a class attribute
-* What is a class method
-* What is a static method
-* How to dynamically create arbitrary new attributes for existing instances of a class
-* How to bind attributes to object and classes
-* What is and what does contain __dict__ of a class and of an instance of a class
-* How does Python find the attributes of an object or class
-* How to use the getattr function
+This repository is dedicated to exploring the concepts of Classes and Objects in Python, and why they make Python programming so awesome!
 
-## Requirements
-### General
+## Objectives
 
-* Allowed editors: vi, vim, emacs
-* All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
-* All your files should end with a new line
-* The first line of all your files should be exactly #!/usr/bin/python3
-* A README.md file, at the root of the folder of the project, is mandatory
-* Your code should use the pycodestyle (version 2.7.*)
-* All your files must be executable
-* The length of your files will be tested using wc
+This course aims to provide a comprehensive understanding of:
+
+1. The concept of Object-Oriented Programming (OOP) and why it's important.
+2. The definition and usage of classes, objects, and instances.
+3. The difference between a class and an object or instance.
+4. The role of attributes in Python and how to use public, protected, and private attributes.
+5. The purpose of the `self` keyword.
+6. The definition and usage of methods, including the special `__init__`, `__str__`, and `__repr__` methods.
+7. The concepts of Data Abstraction, Data Encapsulation, and Information Hiding.
+8. The role of properties in Python and the difference between an attribute and a property.
+9. The Pythonic way to write getters and setters.
+10. The difference between `__str__` and `__repr__`.
+11. The concept of class attributes and the difference between object attributes and class attributes.
+12. The definition and usage of class methods and static methods.
+13. How to dynamically create arbitrary new attributes for existing instances of a class.
+14. How to bind attributes to objects and classes.
+15. The role of `__dict__` in a class and an instance of a class.
+16. How Python finds the attributes of an object or class.
+17. How to use the `getattr` function.
+
+By the end of this course, you should have a solid understanding of these concepts and be able to apply them in your Python programming journey.
