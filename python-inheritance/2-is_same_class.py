@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """function that return if instance is part of the class"""
 
+
 def is_same_class(obj, a_class):
     """
     Checks if an object is an instance of a specified class.
